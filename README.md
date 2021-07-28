@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @V21420
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Vaibhav Anupritam Raut.
+- 📓 Qualification: Currently pursuing my B.Tech in Computer Engineering.
+- 👀 I’m interested in Website and Webpage development.
+- 🌱 I’m currently learning and exploring the Web Technologies.
+- 📫 Contact : vaibhavraut21420@gmail.com
 
-<!---
-V21420/V21420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
